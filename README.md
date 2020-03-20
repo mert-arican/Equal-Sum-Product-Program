@@ -3,3 +3,8 @@ iOS program that solves the Equal-Sum-Product problem. ESP problem is a problem 
 sum of these n numbers is equal to their product. Problem essentially solved with the recursive algorithm explained in 
 "An Algorithm to Solve the Equal-Sum-Product" work by M. A. Nyblom and C. D. Evans, the only difference is that hash table
 (dictionary) is used in this project rather than binary search tree to take advantage of memoization in recursive process.
+
+![IMG_2006](https://user-images.githubusercontent.com/45623751/77169389-76f61c00-6aca-11ea-9a03-b150b72ae18e.PNG)
+![IMG_4A9489E177BB-1](https://user-images.githubusercontent.com/45623751/77169460-91c89080-6aca-11ea-8f59-31e429d642e0.jpeg)
+![IMG_2004](https://user-images.githubusercontent.com/45623751/77169479-968d4480-6aca-11ea-911a-fd1f2da66804.PNG)
+![IMG_2005](https://user-images.githubusercontent.com/45623751/77169484-98ef9e80-6aca-11ea-903e-ce64eb9e4f1e.PNG)
